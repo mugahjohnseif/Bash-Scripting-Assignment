@@ -118,23 +118,16 @@ mugah23@CG-LA2-RE13:~/Shell-lesson-data/exercise-data/creatures$ `for a in 1 2 3
 
 > `done`
 
-Iteration no 1
-
-Iteration no 2
-
-Iteration no 3
-
-Iteration no 4
-
-Iteration no 6
-
-Iteration no 7
-
-Iteration no 8
-
-Iteration no 9
-
-Iteration no 10
+|Iteration no 1|
+|-----|
+|Iteration no 2|
+|Iteration no 3|
+|Iteration no 4|
+|Iteration no 6|
+|Iteration no 7|
+|Iteration no 8|
+|Iteration no 9|
+|Iteration no 10|
 
 
 mugah23@CG-LA2-RE13:~/Shell-lesson-data/exercise-data/creatures$ `for i in {0..9}`
@@ -145,25 +138,17 @@ mugah23@CG-LA2-RE13:~/Shell-lesson-data/exercise-data/creatures$ `for i in {0..9
 
 > `done`
 
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
+|0|
+|---|
+|1|
+|2|
+|3|
+|4|
+|5|
+|6|
+|7|
+|8|
+|9|
 
 
 
